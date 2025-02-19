@@ -1,0 +1,14 @@
+Softmax Regression Exercise - Multiple choices answers
+1. B
+2. C
+3. D
+4. B
+5. B
+6. A
+7. C
+8. D
+9. A
+10a. C
+10b. C
+(optional) 10c. A
+(optional) 10d. B
