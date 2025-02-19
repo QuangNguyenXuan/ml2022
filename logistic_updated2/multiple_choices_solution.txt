@@ -1,0 +1,9 @@
+Logistic Regression Exercise - Multiple choices answer
+1. A
+2. D
+3. B
+4. A
+5. D
+6. C
+7. A
+8. B
